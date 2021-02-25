@@ -1,3 +1,6 @@
 # python-scripts
 
-Python Scripts repo.
+Python Scripts repo
+
+
+Lambda to tag all AWS resources
